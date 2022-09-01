@@ -1,7 +1,7 @@
 # Ejercicio array + web
 
 1. Primer parte
-    1. Usando los arrays proporcionados crear una pagina que, mediante un script, muestre los tipos de productos y sus imagenes:
+    1. Usando el array proporcionado crear una pagina que, mediante un script, muestre los tipos de productos y sus imagenes:
 
         <img style="width: 150px; margin-left:100px; margin-top:20px;" src="img/ejemplo.png">
 
